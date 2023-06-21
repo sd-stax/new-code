@@ -5,9 +5,7 @@ border: 15.5px;
 margin: 20px;
 }
 #b1{color:rgb(163, 7, 247);}
-#b2{color:rgb(
-209, 109, 2)
-;}
+#b2{color:orange;}
 #b3{color:rgb(62, 140, 163);}
 #b4{color:rgb(115, 8, 8);}
 body{
@@ -29,15 +27,16 @@ margin:10px;
 width:60px;
 background-color:rgb(163, 7, 247);
 border:30px;
-height:50px;}
+height:60px;}
 #d2{ 
     padding:10px;
 margin:10px;
 width:60px;
 background-color:rgb(
-209, 109, 2);
+209, 109, 2)
+;
 border:30px;
-height:50px;}
+height:45px;}
 
 
 #d3{    padding:10px;
@@ -45,7 +44,7 @@ margin:10px;
 width:60px;
 background-color:rgb(62, 140, 163);
 border:30px;
-height:50px;}
+height:45px;}
 
 
 #d4{    padding:10px;
@@ -53,9 +52,13 @@ margin:10px;
 width:60px;
 background-color:rgb(115, 8, 8);
 border:30px;
-height:50px;}  
+height:60px;}  
 #target{
 width:100px;
 float:none;}
 .pop{
     background-color:red;color:black;}
+button{font-family:Comic Sans MS;
+    background:black;
+    
+}
