@@ -1,0 +1,61 @@
+.div{background-color:black;
+width: 35px;
+height: 50px;
+border: 15.5px;
+margin: 20px;
+}
+#b1{color:rgb(163, 7, 247);}
+#b2{color:rgb(
+209, 109, 2)
+;}
+#b3{color:rgb(62, 140, 163);}
+#b4{color:rgb(115, 8, 8);}
+body{
+font-family:Comic Sans MS;
+color:white;
+background-color:rgb(0,0,0);
+}
+ #myImage {
+        width: 80px;
+        height: 80px;
+      padding:5px;
+     margin:5px;
+     border:50px;
+     float: left;
+      } 
+#d1{
+    padding:10px;
+margin:10px;
+width:60px;
+background-color:rgb(163, 7, 247);
+border:30px;
+height:50px;}
+#d2{ 
+    padding:10px;
+margin:10px;
+width:60px;
+background-color:rgb(
+209, 109, 2);
+border:30px;
+height:50px;}
+
+
+#d3{    padding:10px;
+margin:10px;
+width:60px;
+background-color:rgb(62, 140, 163);
+border:30px;
+height:50px;}
+
+
+#d4{    padding:10px;
+margin:10px;
+width:60px;
+background-color:rgb(115, 8, 8);
+border:30px;
+height:50px;}  
+#target{
+width:100px;
+float:none;}
+.pop{
+    background-color:red;color:black;}
